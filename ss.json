@@ -1,0 +1,106 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "hello": "Hello {username}",
+  "@hello": {
+    "description": "A welcome message",
+    "placeholders":{
+      "username":{
+        "type":"String"
+      }
+    }
+  },
+  "login1":"Log In" ,
+  "@login1": {
+    "description": "The log in"
+  },
+  "login2": "LOGIN",
+  "@login2": {
+    "description": "The login"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "The email"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "The Password"
+  },
+  "registernow": "Register Now",
+  "@registernow": {
+    "description": "The Register Now"
+  },
+  "signup": "Sign Up",
+  "@signup": {
+    "description": "The Sign Up"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "The location"
+  },
+  "confirmpassword": "Confirm Password",
+  "@confirmpassword": {
+    "description": "The confirmpassword"
+  },
+  "medicine_reservation": "Medicine reservation",
+
+  "medicine_show": "Medicine show",
+  "@medicine_show": {
+    "description": "The Username"
+  },
+  "search_for_medicine": "search for medicine",
+  "@search_for_medicine": {
+    "description": "The Username"
+  },
+  "username1": "Username",
+  "@username1": {
+    "description": "The Username"
+  },
+  "pharmacies_that_contain_the_medicine": "Pharmacies that contain the medicine",
+  "@pharmacies_that_contain_the_medicine": {
+    "description": "pharmacies_that_contain_the_medicine"
+  },
+  "area": "Area",
+  "@area": {
+    "description": "Area"
+  },
+  "city": "City",
+  "@city": {
+    "description": "City"
+  },
+  "governorate": "Governorate",
+  "@governorate": {
+    "description": "Governorate"
+  },
+  "street": "Street",
+  "@street": {
+    "description": "Street"
+  },
+  "user": "Username musn't be empty",
+  "@user": {
+    "description": "username musn't be empty"
+  },
+  "empty": "The field must'nt remain empty",
+  "@empty": {
+    "description": "The field must'nt remain empty"
+  },
+  "pass": "Password must be atleast 8 characters long",
+  "@pass": {
+    "description": "Password must be atleast 8 characters long"
+  },
+  "prescription": "Picture of the prescription that contains the medicine",
+  "@prescription": {
+    "description": "Picture of the prescription that contains the medicine"
+  } ,
+  "confirmation": "Confirmation",
+  "@confirmation": {
+    "description": "Confirmation"
+  }
+,"medicines": "Confirmation",
+  "@medicines": {
+    "description": "Confirmation"
+  }
+
+}

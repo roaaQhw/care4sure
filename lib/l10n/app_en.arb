@@ -1,0 +1,69 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "hello": "Hello {username}",
+  "@hello": {
+    "description": "A welcome message",
+    "placeholders":{
+      "username":{
+        "type":"String"
+        }
+    }
+  },
+  "login1":"Log In" ,
+  "@login1": {
+    "description": "The log in"
+  },
+  "login2": "LOGIN",
+  "@login2": {
+    "description": "The login"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "The email"
+  },
+ "password": "Password",
+  "@password": {
+    "description": "The Password"
+  },
+  "registernow": "Register Now",
+  "@registernow": {
+    "description": "The Register Now"
+  },
+  "signup": "Sign Up",
+  "@signup": {
+    "description": "The Sign Up"
+  },
+  "location": "Location",
+  "@location": {
+    "description": "The location"
+  },
+  "confirmpassword": "Confirm Password",
+  "@confirmpassword": {
+    "description": "The confirmpassword"
+  },
+  "medicine_reservation": "Medicine reservation",
+
+  "medicine_show": "Medicine show",
+  "@medicine_show": {
+    "description": "The Username"
+  },
+  "search_for_medicine": "search for medicine",
+  "@search_for_medicine": {
+    "description": "The Username"
+  },
+  "username1": "Username",
+  "@username1": {
+    "description": "The Username"
+  },
+  "pharmacies_that_contain_the_medicine": "Pharmacies that contain the medicine",
+  "@pharmacies_that_contain_the_medicine": {
+    "description": "pharmacies_that_contain_the_medicine"
+  },
+  "street": "Street",
+  "@street": {
+    "description": "Street"
+  }
+}
